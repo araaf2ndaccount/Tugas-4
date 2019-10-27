@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1572177717 source:/home/araaf/tugas game programming/Tugas 4/main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+

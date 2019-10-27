@@ -11,3 +11,4 @@ Tugas 4 Game Programming Project (inventory)
  "Inventorymu Kosong Isian segera"
  - jika kita memilih kondisi 2 maka kita akan mendapatkan item secara random dan akan menampilkan jumlah inventorymu saat ini
  - jika kita memilih kondisi 3 maka kita akan diberi pilihan item mana yang akan dihapus
+ - jika kita memilih kondisi selain diatas maka akan keluar dari sistem inventory
